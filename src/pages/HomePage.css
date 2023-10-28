@@ -1,0 +1,33 @@
+* {
+    line-height: 1.0714285714;
+    font-weight: 600;
+    letter-spacing: -0.005em;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-align: center;
+}
+
+#homepage-title {
+    font-size: 98px;
+
+    background: -webkit-linear-gradient(#e29b1f, #b60c0c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    margin: 3rem 1rem 3rem;
+    padding: 1rem 1rem 1rem;
+}
+
+#homepage-subtitle {
+    color: white;
+}
+
+#logo-img {
+    margin: 2rem 0rem 2rem 3.7rem;
+    padding: 1rem;
+    width: 200px;
+    height: auto;
+}
+
+body {
+    background-color: black;
+}
